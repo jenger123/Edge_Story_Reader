@@ -1,0 +1,15 @@
+Win32\Debug
+test.db
+__history
+__recovery
+__astcache
+*.dfm
+*.ilc
+*.ild
+*.ils
+*.map
+*.obj
+*.res
+*.tds
+*.pch
+*.obj

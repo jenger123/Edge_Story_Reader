@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.122,=D:\builder_projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,=D:\sqlite\sqlite3.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.980,=D:\sqlite\sqlite3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,D:\builder_projects\read\Unit1.h=D:\builder_projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,=D:\builder_projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,D:\builder_projects\read\Unit1.cpp=D:\builder_projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.668,D:\builder_projects\read\Unit1.dfm=D:\builder_projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,D:\builder_projects\read\Project1.cbproj=D:\builder_projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.655,D:\builder_projects\read\Project1PCH1.h=D:\builder_projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.092,=D:\sqlite\sqlite3.lib</Transaction>
+    <Transaction>2023.04.14 17:21:12.025,=D:\sqlite\sqlite3ext.h</Transaction>
+  </Transactions>
+</BorlandProject>
